@@ -11,4 +11,5 @@
 
 |날짜|출처|제목|풀이|
 |---|---|---|---|
-|220306|프로그래머스|-[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|-[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42840)|
+|220306|프로그래머스|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42840)|
+|220306|프로그래머스|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_1845)|
