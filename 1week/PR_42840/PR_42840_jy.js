@@ -1,11 +1,12 @@
 function solution(answers) {
-    let answer = [];
-    let first = [];
-    let second = [];
-    let third = [];
+    const answer = [];
+    const first = [];
+    const second = [];
+    const third = [];
     let count1 = 0;
     let count2 = 0;
     let count3 = 0;
+    // 아래 for문은 answers.length가 매우 큰 수일 때 연산 횟수가 증가하고, 메모리 영역도 많이 차지하게 되어 비효율적
     for (let i=0; i<parseInt(answers.length/5)+1; i++) {
         first.push(1,2,3,4,5);
     }
