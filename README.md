@@ -11,9 +11,10 @@
 |이지영|<a href="https://github.com/easy-young"><img src="https://img.shields.io/badge/easy%2D%2Dyoung-ed9e00?style=flat-square&logo=github&logoColor=white&link=https://github.com/easy-young"/></a>|
 
 ### 📚STUDY LOG📚
-|날짜|출처|제목|풀이|
-|---|---|---|---|
-|220306|프로그래머스|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42840)|
-|220306|프로그래머스|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_1845)|
-|220307|프로그래머스|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42862)|
+|날짜|출처|난이도|제목|풀이|
+|---|---|---|---|---|
+|220306|프로그래머스|Level.1|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42840)|
+|220306|프로그래머스|Level.1|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_1845)|
+|220307|프로그래머스|Level.1|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42862)|
+|220310|프로그래머스|Level.2|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42885)|
 </div>
