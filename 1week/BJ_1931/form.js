@@ -1,4 +1,4 @@
-let input = require('fs').readFileSync('example.txt').toString().split('\n');
+let input = require('fs').readFileSync('example.txt').toString().split('\n'); // 제출시 'example.txt'를 "/dev/stdin"으로 변경
 let count = Number(input[0]);
 let arr = []
 
