@@ -20,4 +20,5 @@
 |220310|프로그래머스|Greedy|Level.2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42883)|
 |220310|프로그래머스|Greedy|Level.2|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/1week/PR_42860)|
 |220314|백준|Greedy|Silver.2|[회의실배정](https://www.acmicpc.net/problem/1931)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/2week/BJ_1931)|
+|220315|백준|Greedy|Gold.5|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/2week/BJ_19598)|
 </div>
