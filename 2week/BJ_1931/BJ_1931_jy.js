@@ -18,9 +18,8 @@ while (b < arr.length) {
         a = b;
         b++;
         answer++;
-        continue;
     }
-    b++;
+    else b++;
 }
 
 // for (let j = 0; j < arr.length-1; j++) {
