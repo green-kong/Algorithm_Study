@@ -9,6 +9,7 @@
 |이동훈| <a href="https://github.com/green-kong"><img src="https://img.shields.io/badge/dev%2D%2Dkong-339933?style=flat-square&logo=github&logoColor=white&link=https://github.com/green-kong"/></a>|
 |한  빈|<a href="https://github.com/hb707"><img src="https://img.shields.io/badge/hb707-fa52ca?style=flat-square&logo=github&logoColor=white&link=https://github.com/hb707"/></a>|
 |이지영|<a href="https://github.com/easy-young"><img src="https://img.shields.io/badge/easy%2D%2Dyoung-ed9e00?style=flat-square&logo=github&logoColor=white&link=https://github.com/easy-young"/></a>|
+|장재원|<a href="https://github.com/bitkunst"><img src="https://img.shields.io/badge/bitKunst-0072dd?style=flat-square&logo=github&logoColor=white&link=https://github.com/bitKunst"/></a>|
 
 ### 📚STUDY LOG📚
 |날짜|출처|유형|난이도|제목|풀이|
