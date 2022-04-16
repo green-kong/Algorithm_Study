@@ -2,6 +2,7 @@ function solution(n, lost, reserve) {
   let _lost = lost //
     .filter((v) => reserve.indexOf(v) < 0)
     .sort((a, b) => a - b);
+
   const _reserve = reserve
     .filter((v) => lost.indexOf(v) < 0)
     .sort((a, b) => a - b);

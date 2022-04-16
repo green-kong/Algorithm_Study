@@ -14,6 +14,8 @@ function solution1(length, input) {
     return a[1] - b[1];
   });
 
+  console.log(order);
+
   const timeTable = [];
   for (let i = 0; i < length; i++) {
     if (timeTable.length === 0) {

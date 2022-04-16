@@ -8,6 +8,11 @@ for (let i = 0; i < length; i++) {
   input.push(test[i + 1].split(' ').map(Number));
 }
 
+// const length = Number(test[0]);
+// const input = test
+//   .filter((v, i) => i > 0)
+//   .map((v) => v.split(' ').map((v) => Number(v)));
+
 function solution(input) {
   const time = {};
   input.forEach(([start, end]) => {
@@ -16,7 +21,6 @@ function solution(input) {
   });
 
   const timeList = Object.entries(time);
-  let maxCnt = 0;
   let curCnt = 0;
   timeList.forEach((v) => {
     curCnt += v[1];
@@ -27,6 +31,7 @@ function solution(input) {
 solution(input);
 
 //시간초과 뜸 ^^
+// 동시간대에 몇개의 회의가 진행되느냐 모든시간마다 구해서 최대값을 리턴해주자.!
 // function solution(length, input) {
 //   input.sort((a, b) => a[0] - b[0]);
 
@@ -69,19 +74,29 @@ solution(input);
 // }
 // solution(length, input);
 
-// function solution(length, input) {
-//   const timeList = [];
-//   input.forEach((v) => {
-//     timeList.push([v[0], 1]);
-//     timeList.push([v[1], -1]);
-//   });
-//   let maxCnt = 0;
-//   let curCnt = 0;
-//   timeList.sort((a, b) => a[0] - b[0]);
-//   timeList.forEach((v) => {
-//     curCnt += v[1];
-//     maxCnt = maxCnt > curCnt ? maxCnt : curCnt;
-//   });
-//   console.log(maxCnt);
-// }
-// solution(length, input);
+function solution(length, input) {
+  const timeList = [];
+
+  input.forEach((v) => {
+    timeList.push([v[0], 1]);
+    timeList.push([v[1], -1]);
+  });
+
+  let maxCnt = 0;
+  let curCnt = 0;
+
+  timeList.sort((a, b) => {
+    if (a[0] === b[0]) {
+      return a[1] - b[1];
+    }
+    return a[0] - b[0];
+  });
+
+  timeList.forEach((v) => {
+    curCnt += v[1];
+    maxCnt = maxCnt > curCnt ? maxCnt : curCnt;
+  });
+
+  console.log(maxCnt);
+}
+solution(length, input);
