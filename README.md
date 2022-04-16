@@ -23,4 +23,5 @@
 |220314|백준|Greedy|Silver.2|[회의실배정](https://www.acmicpc.net/problem/1931)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/2week/BJ_1931)|
 |220315|백준|Greedy|Gold.5|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/2week/BJ_19598)|
 |220316|백준|Greedy|Gold.5|[선 긋기](https://www.acmicpc.net/problem/2170)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/2week/BJ_2170)|
+|220318|백준|Greedy|Gold.1|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/3week/BJ_1700)|
 </div>
