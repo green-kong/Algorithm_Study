@@ -2,7 +2,7 @@
 
 ### 문제 링크
 
--[멀티탭 스케줄링](https://www.acmicpc.net/problem/17005)
+-[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 
 ### 👾 Issues
 
