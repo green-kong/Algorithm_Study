@@ -25,4 +25,6 @@
 |220316|백준|Greedy|Gold.5|[선 긋기](https://www.acmicpc.net/problem/2170)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/2week/BJ_2170)|
 |220418|백준|Greedy|Gold.1|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/3week/BJ_1700)|
 |220418|백준|Greedy|Silver.5|[뒤집기](https://www.acmicpc.net/problem/1439)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/3week/BJ_1439)|
+|220420|백준|Greedy, Priority Queue|Gold.4|[순회공연](https://www.acmicpc.net/problem/2109)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/3week/BJ_2109)|
+|220420|백준|Greedy|Silver.1|[신입 사원](https://www.acmicpc.net/problem/1946)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/3week/BJ_1946)|
 </div>
