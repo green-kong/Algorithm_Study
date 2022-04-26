@@ -31,4 +31,6 @@
 |220422|백준|Greedy|Silver.2|[주식](https://www.acmicpc.net/problem/11501)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/3week/BJ_11501)|
 |220425|백준|Greedy|Gold.2|[컵라면](https://www.acmicpc.net/problem/1781)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/4week/BJ_1781)|
 |220425|백준|Greedy|Silver.4|[주유소](https://www.acmicpc.net/problem/13305)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/4week/BJ_13305)|
+|220427|백준|Greedy|Silver.5|[캠핑](https://www.acmicpc.net/problem/4796)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/4week/BJ_4796)|
+|220427|백준|Greedy|Silver.2|[방탈출](https://www.acmicpc.net/problem/15729)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/4week/BJ_15729)|
 </div>
