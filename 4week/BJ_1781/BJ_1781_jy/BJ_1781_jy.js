@@ -11,8 +11,6 @@ const arr = input.slice(1)
             });
 console.log(arr);
 
-
-
 // 로직은 맞는 것 같은데 25%쯤에서 메모리 초과 뜸 (컵라면 수 많은 순서 -> 기한이 많이 남은 순서)
 // let answer = 0;
 // let check = Array(arr.length).fill(0);
