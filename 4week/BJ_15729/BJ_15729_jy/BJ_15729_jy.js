@@ -3,21 +3,33 @@ const input = require('fs')
                 .toString()
                 .trim()
                 .split('\n');
-const arr = input[1].split(' ').map(Number);
+const arr = input[1].split(' ').map(v => Boolean(Number(v)));
 let answer = 0;
 
-for (let i = 0; i < arr.length; i++) {
-    if (arr.every(v => v === 0)) break;
-    if (arr[i] === 1) {
-        arr[i] = 0;
-        if (arr[i + 1]) arr[i + 1] = 0;
-        else arr[i + 1] = 1;
-        if (arr[i + 2]) arr[i + 2] = 0;
-        else arr[i + 2] = 1;
+for (let i = 0; i < Number(input[0]); i++) {
+    if (arr[i]) {
+        arr[i + 1] = !arr[i + 1];
+        arr[i + 2] = !arr[i + 2];
         answer++;
     }
 }
 
 console.log(answer);
 
-// for문 1번 도는데 왜 시간 초과가 뜨는지 모르겠다...
+// const arr = input[1].split(' ').map(Number);
+
+// for (let i = 0; i < arr.length; i++) {
+//     if (arr.every(v => v === 0)) break;
+//     if (arr[i] === 1) {
+//         arr[i] = 0;
+//         if (arr[i + 1]) arr[i + 1] = 0;
+//         else arr[i + 1] = 1;
+//         if (arr[i + 2]) arr[i + 2] = 0;
+//         else arr[i + 2] = 1;
+//         answer++;
+//     }
+// }
+
+// for문 1번 도는데 왜 시간 초과가 뜨는지 몰랐다.
+// 처음에 배열 뽑아올 때 0, 1이 아니라 Boolean 타입으로 가져오면 가장 안쪽의 if문이 필요없게 된다.
+// 이후 다시 시도해보니 메모리 초과가 떴는데, for문에서 arr.length가 아닌 Number(input[0])으로 바꿔주니 해결되었다.
