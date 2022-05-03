@@ -36,4 +36,5 @@
 |220429|백준|Greedy|Silver.4|[로프](https://www.acmicpc.net/problem/2217)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/4week/BJ_2217)|
 |220502|백준|Stack|Silver.4|[괄호](https://www.acmicpc.net/problem/9012)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_9012)|
 |220502|백준|Stack|Silver.3|[쇠막대기](https://www.acmicpc.net/problem/10799)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_10799)|
+|220504|백준|Stack|Gold.4|[크게만들기](https://www.acmicpc.net/problem/2812)|[✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_2812)|
 </div>
