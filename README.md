@@ -41,5 +41,6 @@
 | 220504 | 백준         | Stack                  | Gold.4   | [문자열폭발](https://www.acmicpc.net/problem/9935)                       | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_9935)  |
 | 220506 | 백준         | Stack                  | Platinum.5   | [히스토그램](https://www.acmicpc.net/problem/1725)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_1725)  |
 | 220506 | 백준         | Stack                  | Gold.5   | [탑](https://www.acmicpc.net/problem/2493)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_2493)  |
+| 220511 | 백준         | Binary Search Tree                  | Platinum.1   | [이진탐색트리](https://www.acmicpc.net/problem/2957)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/6week/BJ_2957)  |
 
 </div>
