@@ -43,5 +43,6 @@
 | 220506 | 백준         | Stack                  | Gold.5   | [탑](https://www.acmicpc.net/problem/2493)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/5week/BJ_2493)  |
 | 220511 | 백준         | Binary Search Tree                  | Platinum.1   | [이진탐색트리](https://www.acmicpc.net/problem/2957)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/6week/BJ_2957)  |
 | 220613 | 백준         | BFS/DFS              | Silver.1   | [영역구하기](https://www.acmicpc.net/problem/2583)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/7week/BJ_2583)  |
+| 220613 | 백준         | BFS/DFS              | Silver.1   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/7week/BJ_2667)  |
 
 </div>
