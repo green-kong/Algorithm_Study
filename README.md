@@ -46,4 +46,6 @@
 | 220613 | 백준         | BFS/DFS              | Silver.1   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/7week/BJ_2667)  |
 | 220613 | 백준         | BFS/DFS              | Gold.5   | [암호만들기](https://www.acmicpc.net/problem/1759)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/6week/BJ_1759)  |
 | 220613 | 백준         | BFS/DFS              | Gold.5   | [알파벳](https://www.acmicpc.net/problem/1987)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/8week/BJ_1987)  |
+  | 220623 | 백준         | BFS/DFS              | Silver.2   | [스타트와 링크](https://www.acmicpc.net/problem/14889)                               | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/8week/BJ_14889)  |
+
 </div>
