@@ -49,5 +49,6 @@
 | 220623 | 백준         | BFS/DFS                | Silver.2   | [스타트와 링크](https://www.acmicpc.net/problem/14889)                   | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/8week/BJ_14889) |
 | 220627 | 백준         | BFS                    | Gold.4     | [DSLR](https://www.acmicpc.net/problem/9019)                             | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/9week/BJ_9019)  |
 | 220627 | 백준         | BFS                    | Gold.5     | [스타트링크](https://www.acmicpc.net/problem/5014)                       | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/9week/BJ_5014)  |
+| 220630 | 백준         | BFS/DFS                    | Gold.3     | [사다리조작](https://www.acmicpc.net/problem/15684)                       | [✍️](https://github.com/green-kong/Algorithm_Study/tree/master/9week/BJ_15684)  |
 
 </div>
